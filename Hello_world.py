@@ -10,3 +10,4 @@ def chislki(kol_vo_chisel):
         for i in range(kol_vo_chisel // 2, 0, -1):
             print(i, end=" ")
 primer = chislki(int(input()))
+//тут был артур
